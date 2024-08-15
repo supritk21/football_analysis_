@@ -1,0 +1,25 @@
+# Ignore specific model files
+models/best.pt
+models/last.pt
+
+# Ignore YOLO model files
+yolov5xu.pt
+yolov8n.pt
+yolov8x.pt
+
+# Ignore stub files
+stubs/track_stubs.pkl
+stubs/camera_movement.pkl
+
+# Ignore the entire runs/detect directory
+runs/detect/
+
+
+#ignore output videos
+output_videos/
+input_videos/
+
+football-players-detection-1/football-players-detection-10/
+
+
+sklearn-env/
